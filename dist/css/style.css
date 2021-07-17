@@ -1,0 +1,21 @@
+#table {
+    display: table;
+    padding: 5px;
+}
+.tr {
+    display: table-row;
+    padding: 40px;
+}
+.td1 {
+    display: table-cell;
+    padding-top: 20px;
+    width: 10%;
+    border: #000000 solid 1px;
+}
+.td2 {
+    display: table-cell;
+    border: #000000 solid 1px;
+    margin: 0 auto;
+    padding-block: 30px;
+    scroll-padding-right: 40px;
+}

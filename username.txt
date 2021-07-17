@@ -1,0 +1,5 @@
+Username : admin
+Password : admin
+
+VERSI PHP 5
+XAMPP VERSI 5.6
